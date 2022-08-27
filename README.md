@@ -1,0 +1,2 @@
+# CURE2022_JDURAZO
+BAT 102-CURE Class repository 
